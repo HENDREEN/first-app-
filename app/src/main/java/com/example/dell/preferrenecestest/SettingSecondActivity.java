@@ -35,6 +35,7 @@ public class SettingSecondActivity extends AppCompatActivity {
             bindPreferenceSummaryToValue(section);
 //[kokpkkkpk
         }
+
         //for summary..of loaction.............................
         private  void bindPreferenceSummaryToValue(Preference preference){
             preference.setOnPreferenceChangeListener(this);
