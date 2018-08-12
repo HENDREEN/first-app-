@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PreferrenecesTest</string>
+    <string name="location">locationKey</string>
+    <string name="key">Location_target</string>
+    <string name="location_title">location</string>
+    <string name="about">about</string>
+    <string name="setting">setting</string>
+    <string name="key2">key2</string>
+</resources>

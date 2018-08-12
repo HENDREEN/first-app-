@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<EditTextPreference
+    android:inputType="text"
+    android:selectAllOnFocus="true"
+    android:key="@string/key"
+    android:defaultValue="Erbil"
+    android:title="@string/location_title"/>
+    <EditTextPreference
+        android:inputType="text"
+        android:selectAllOnFocus="true"
+        android:key="@string/key2"
+        android:defaultValue="sport"
+        android:title="section"/>
+</PreferenceScreen>
