@@ -33,7 +33,7 @@ public class SettingSecondActivity extends AppCompatActivity {
             ///for summary of section
             Preference section =findPreference(getString(R.string.key2));
             bindPreferenceSummaryToValue(section);
-
+//[kokpkkkpk
         }
         //for summary..of loaction.............................
         private  void bindPreferenceSummaryToValue(Preference preference){
